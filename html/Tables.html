@@ -6,40 +6,61 @@
 </head>
 <body>
     <table border="">
+        <caption>It is my table demonstration</caption>
 
-    <!--- Table row --->
-    <tr>
-        <th>col-1</th>
-        <th>col-2</th>
-        <th>col-3</th>
-        <th>col-4</th>
-    </tr>
-    <tr>
-        <!---Table Data-->
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>6</td>
-        <td>7</td>
-        <td>8</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>10</td>
-        <td>11</td>
-        <td>12</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>14</td>
-        <td>15</td>
-        <td>16</td>
-    </tr>
+        <colgroup>
+            <col span="3"   style="background-color: aqua;">  
+            <col span="1" style="background-color: blueviolet;">  
+        </colgroup>
+        <thead>
+            <!--- Table row --->
+   
+            <tr>
+                <th>col-1</th>
+                <th>col-2</th>
+                <th>col-3</th>
+                <th>col-4</th>
+            </tr>
+    
+        </thead>
 
+        <tbody>
+            <tr>
+                <!---Table Data-->
+                <td colspan="2">1</td>
+                <td>2</td>
+                <td>3</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td rowspan="2">5</td>
+                <td>6</td>
+                <td>7</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>10</td>
+                <td>11</td>
+                <td>12</td>
+            </tr>
+            <tr>
+                <td>13</td>
+                <td>14</td>
+                <td>15</td>
+                <td>16</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td>abc</td>
+                <td>xyz</td>
+                <td>wxy</td>
+                <td>hkg</td>
+            </tr>
+        </tfoot>
+    
     </table>
 </body>
 </html>
