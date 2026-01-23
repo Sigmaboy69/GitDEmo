@@ -1,0 +1,23 @@
+git config --global user.name"Sigmaboy69"
+
+git config --global user.email"dhruvpatel16200605@gmail.com"
+
+git init
+
+git remote add origin https://github.com/Sigmaboy69/GitDEmo.git
+
+git pull origin main
+
+git status
+
+git add .
+
+git status
+
+git commit -m "commit message"
+
+git commit -m "initial Commit"
+
+git push
+
+git push --set-upstream origin master
