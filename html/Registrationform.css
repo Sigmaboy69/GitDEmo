@@ -32,7 +32,7 @@
     border-width: 5px;
     border-color: solid white;
     box-shadow: 10px 10px 100px red;
-    border-spacing: 10px 15px;
+    border-spacing: 15px 20px;
 }
 .Name td{
     margin-bottom: 15px;
@@ -59,4 +59,310 @@
     border-radius: 7px;
     border: none;
     text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.E td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.E1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.E2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.E3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.P td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.P1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.P2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.P3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.Cp td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.Cp1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.Cp2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.Cp3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 6px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.Pn td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.Pn1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.Pn2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.Pn3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.s td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.s1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.s2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+}
+.s3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    
+}
+.s4{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    
+}
+.s5{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    
+}
+.d td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.d1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    
+    margin-right: 10px;
+}
+.d2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.d3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.c td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.c1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.c2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.c3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.a td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.a1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.a2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.a3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.b td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.b1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.b2{
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+    padding-right: 50px;  
+    font-weight: bolder;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 35px;
+}
+.b2:hover{
+    background-image: url(https://img.freepik.com/premium-vector/dark-blue-background-with-blue-gradient_1055519-2175.jpg?semt=ais_hybrid&w=740&q=80);
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+.b3{
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+    padding-right: 50px;      
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 30px;
+    margin-right: 35px;
+}
+.b3:hover{
+    background-image: url(https://img.freepik.com/premium-vector/dark-blue-background-with-blue-gradient_1055519-2175.jpg?semt=ais_hybrid&w=740&q=80);
+    text-align: center;
+    font-weight: bolder;
+    color: white;
 }
