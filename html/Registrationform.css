@@ -1,0 +1,62 @@
+.Body{
+    background-image: url(https://t4.ftcdn.net/jpg/01/98/24/71/360_F_198247162_JwrVkhqowZb4NJC24156nV6QYRhsV8Qf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+.h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    box-shadow: 10px 20px 100px grey;
+    background-image: url(https://t4.ftcdn.net/jpg/01/98/24/71/360_F_198247162_JwrVkhqowZb4NJC24156nV6QYRhsV8Qf.jpg);
+    color: white;
+    
+}
+.Table{
+
+    background-color:azure;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 20px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    background-repeat: no-repeat;
+    background-size: cover;    
+    margin-top: 30px;
+    border-width: 5px;
+    border-color: solid white;
+    box-shadow: 10px 10px 100px red;
+    border-spacing: 10px 15px;
+}
+.Name td{
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.Name1{
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.Name2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 10px;
+    border-color: black;
+    border-width: 2px;
+}
+.Name3{
+    padding: 5px;       
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBotsQ_2KRh1EnwHDf8rC-CQty6QsIBBBHOA&s);
+    border-radius: 7px;
+    border: none;
+    text-align: center;
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="Registrationform.css">
+</head>
+<body class="Body">
+
+<h2 class="h2">Registration Form</h2>
+
+<form>
+    <table class="Table" border="1" align="center">
+        
+        <tr class="Name">
+            <td class="Name1">Full Name:</td>
+            <td class="Name2"><input type="text" name="fullname" class="Name3"></td>
+        </tr>
+
+        <tr class="Email">
+            <td class="Email1">Email:</td>
+            <td><input type="email" name="email" class="Email2"></td>
+        </tr>
+
+        <tr class="Password">
+            <td class="Password1">Password:</td>
+            <td><input type="password" name="password" class="Password2"></td>
+        </tr>
+
+        <tr>
+            <td>Confirm Password:</td>
+            <td><input type="password" name="confirm_password"></td>
+        </tr>
+
+        <tr>
+            <td>Phone Number:</td>
+            <td><input type="tel" name="phone"></td>
+        </tr>
+
+        <tr>
+            <td>Gender:</td>
+            <td>
+                <input type="radio" name="gender"> Male
+                <input type="radio" name="gender"> Female
+                <input type="radio" name="gender"> Other
+            </td>
+        </tr>
+
+        <tr>
+            <td>Date of Birth:</td>
+            <td><input type="date" name="dob"></td>
+        </tr>
+
+        <tr>
+            <td>Course:</td>
+            <td>
+                <select name="course">
+                    <option>Select Course</option>
+                    <option>Computer Science</option>
+                    <option>Information Technology</option>
+                    <option>Mechanical Engineering</option>
+                    <option>Electrical Engineering</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Address:</td>
+            <td><textarea name="address" rows="3" cols="20"></textarea></td>
+        </tr>
+
+        <tr>
+            <td colspan="2" align="center">
+                <input type="submit" value="Register">
+                <input type="reset" value="Reset">
+            </td>
+        </tr>
+
+    </table>
+</form>
+
+</body>
+</html>

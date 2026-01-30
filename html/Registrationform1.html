@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="Registrationform1.css">
+</head>
+<body class="Body">
+
+<h2 class="h2">Registration Form</h2>
+
+<form>
+    <table class="Table" align="center">
+        
+        <tr class="Name">
+            <td class="Name1">Full Name:</td>
+            <td><input class="inputBox" type="text" name="fullname" placeholder="Enter full name"></td>
+        </tr>
+
+        <tr class="Email">
+            <td class="Email1">Email:</td>
+            <td><input class="inputBox" type="email" name="email" placeholder="name@example.com"></td>
+        </tr>
+
+        <tr class="Password">
+            <td class="Password1">Password:</td>
+            <td><input class="inputBox" type="password" name="password"></td>
+        </tr>
+
+        <tr>
+            <td>Confirm Password:</td>
+            <td><input class="inputBox" type="password" name="confirm_password"></td>
+        </tr>
+
+        <tr>
+            <td>Phone Number:</td>
+            <td><input class="inputBox" type="tel" name="phone"></td>
+        </tr>
+
+        <tr>
+            <td>Gender:</td>
+            <td>
+                <input type="radio" name="gender" value="male"> Male
+                <input type="radio" name="gender" value="female"> Female
+                <input type="radio" name="gender" value="other"> Other
+            </td>
+        </tr>
+
+        <tr>
+            <td>Date of Birth:</td>
+            <td><input class="inputBox" type="date" name="dob"></td>
+        </tr>
+
+        <tr>
+            <td>Course:</td>
+            <td>
+                <select class="inputBox" name="course">
+                    <option>Select Course</option>
+                    <option>Computer Science</option>
+                    <option>Information Technology</option>
+                    <option>Mechanical Engineering</option>
+                    <option>Electrical Engineering</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Address:</td>
+            <td><textarea class="inputBox" name="address" rows="3" cols="20"></textarea></td>
+        </tr>
+
+        <tr>
+            <td colspan="2" align="center">
+                <input type="submit" value="Register">
+                <input type="reset" value="Reset">
+            </td>
+        </tr>
+
+    </table>
+</form>
+
+</body>
+</html>
