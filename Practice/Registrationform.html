@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="Registrationform.css">
+</head>
+<body class="Body">
+
+<h2 class="h2">Registration Form</h2>
+
+<form>
+    <table class="Table" border="1" align="center">
+        
+        <tr class="Name">
+            <td class="Name1">Full Name:</td>
+            <td class="Name2"><input type="text" name="fullname" class="Name3" placeholder="Enter Full Name"></td>
+        </tr>
+
+        <tr class="E">
+            <td class="E1">Email:</td>
+            <td class="E2"><input type="email" name="email" class="E3" placeholder="name@example.com"></td>
+        </tr>
+
+        <tr class="P">
+            <td class="P1">Password:</td>
+            <td class="P2"><input type="password" name="password" class="P3" id="password" placeholder="Enter Password"></td>
+        </tr>
+
+        <tr class="Cp">
+            <td class="Cp1">Confirm Password:</td>
+            <td class="Cp2"><input type="password" name="confirm_password" id="confirm_password" class="Cp3" placeholder="Confirm Password" ></td>
+        </tr>
+
+        <tr class="Pn">
+            <td class="Pn1">Phone Number:</td>
+            <td class="Pn2"><input type="tel" name="phone" class="Pn3" placeholder=" +91 Enter Phone Number"></td>
+        </tr>
+
+        <tr class="s">
+            <td class="s1">Sex:</td>
+            <td class="s2">
+                <input type="radio" name="gender" class="s3"> Male
+                <input type="radio" name="gender" class="s4"> Female
+                <input type="radio" name="gender" class="s5"> Others
+            </td>
+        </tr>
+
+        <tr class="d">
+            <td class="d1">Date of Birth:</td>
+            <td class="d2"><input type="date" name="dob" class="d3"></td>
+        </tr>
+
+        <tr class="c">
+            <td class="c1">Course:</td>
+            <td class="c2">
+                <select name="course" class="c3">
+                    <option>Select Course</option>
+                    <option>Computer Science</option>
+                    <option>Information Technology</option>
+                    <option>Mechanical Engineering</option>
+                    <option>Electrical Engineering</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr class="a">
+            <td class="a1">Address:</td>
+            <td class="a2"><textarea name="address" rows="3" cols="20" class="a3" placeholder="Enter Your Address"></textarea></td>
+        </tr>
+
+        <tr class="b">
+            <td colspan="2" align="center" class="b1">
+                <input type="submit" value="Register" class="b2">
+                <input type="reset" value="Reset" class="b3">
+            </td>
+        </tr>
+
+    </table>
+</form>
+
+</body>
+</html>
